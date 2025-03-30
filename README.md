@@ -26,6 +26,8 @@
 5. `php artisan key:generate`
 6. `php artisan migrate`
 7. `php artisan db:seed` （初期データ投入が必要な場合）
+8. php artisan storage:link (storage中の画像を使えるように)
+
 
 ---
 
