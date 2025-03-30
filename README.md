@@ -10,7 +10,7 @@
 
 ### Dockerビルド手順
 
-1. `git clone <リポジトリURL>`
+1. `git clone git@github.com:furukawa-seiya530/Free-Market.git`
 2. `docker-compose up -d --build`
 
 > ※ MySQLが立ち上がらない場合、OSに応じて `docker-compose.yml` を調整してください。
